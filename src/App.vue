@@ -14,15 +14,16 @@ export default {
 }
 </script>
 
-<style lang="sass">
-$darkmode-bg-color: #38383a
-$darkmode-color: whitesmoke
-#app
-  font-family: Avenir, Helvetica, Arial, sans-serif
-  -webkit-font-smoothing: antialiased
-  -moz-osx-font-smoothing: grayscale
-  text-align: center
-  color: $darkmode-color
-  margin-top: 60px
-  background: $darkmode-bg-color
+<style lang="scss">
+$darkmode-bg-color: #38383a;
+$darkmode-color: whitesmoke;
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: $darkmode-color;
+  margin-top: 60px;
+  background: $darkmode-bg-color;
+}
 </style>
