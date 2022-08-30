@@ -2,9 +2,8 @@
     <nav>
       <div class="logo"><router-link to="/" style="text-decoration: none; color: inherit;"><a>Allo<span class="oneoone">Technos</span></a></router-link></div>
       <div class="onglets">
-        <router-link to="about" style="text-decoration: none; color: inherit;"><a class="onglet">About</a></router-link>
-        <!-- <router-link to="about" style="text-decoration: none; color: inherit;"><a class="onglet">Gaming</a></router-link>
-        <router-link to="about" style="text-decoration: none; color: inherit;"><a class="onglet">Smartphones</a></router-link> -->
+        <router-link to="products" style="text-decoration: none; color: inherit;"><a class="onglet">Produits</a></router-link>
+        <router-link to="contact" style="text-decoration: none; color: inherit;"><a class="onglet">Contact</a></router-link>
       </div>
       <div class="buttons">
         <!-- <span class="login">Connexion</span> -->
